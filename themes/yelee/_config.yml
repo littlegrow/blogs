@@ -101,6 +101,12 @@ youyan:
 
 valine:
   on: true
+  appid: RWJCM9UQW07DGPJGy2xvOQ7l-gzGzoHsz # App ID
+  appkey: EY1VbDQQchduEg09LGaC8uPq # App Key
+  verify: false # 验证码
+  notify: true # 评论回复邮箱提醒
+  avatar: mp # 匿名者头像选项
+  placeholder: 说点什么吧...
 
 
 
@@ -237,9 +243,9 @@ baidu_tongji:
 # 不蒜子网站计数设置
 # http://ibruce.info/2015/04/04/busuanzi/
 visit_counter:
-  on: false
-  site_visit: false
-  page_visit: false
+  on: true
+  site_visit: true
+  page_visit: true
 
 # GitHub Repo Widget
 # https://github.com/hustcc/GitHub-Repo-Widget.js
