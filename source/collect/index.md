@@ -26,7 +26,7 @@ date: 2019-9-18
 ### 缓存中间件
 
 <br>
-[你看过Redis数据结构底层实现吗](https://mp.weixin.qq.com/s/gRtiSNDCuS0c8nF_Q8Tv9A[)
+[你看过Redis数据结构底层实现吗](https://mp.weixin.qq.com/s/gRtiSNDCuS0c8nF_Q8Tv9A)
 [为什么分布式一定要有Redis?](https://mp.weixin.qq.com/s/6t_D-3qNpUuEJguNq4sIyw)
 [memcache内核，一文搞定](https://mp.weixin.qq.com/s/zh9fq_e2BgdIeR8RKtY6Sg)
 [MySQL优化原理](https://mp.weixin.qq.com/s/-lta9LYRxpDliOFrvFs2tQ)
